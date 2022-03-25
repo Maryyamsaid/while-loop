@@ -1,0 +1,146 @@
+6.1: write a program that display pakistan 5 time using while loop
+pakistan
+pakistan
+pakistan
+pakistan
+pakistan
+
+6.2: write a program that display counting 1 to 10 using while loop
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+6.3: write a program that dispaly fisrt five digits and its sum
+1
+2
+3
+4
+5
+sum = 15
+
+6.4: write a program that display first 5 digit and its square
+1,  1
+2,  4
+3,  9
+4,  16
+5,  25
+
+6.5: write a program that take a number and display table  using while loop
+enter a number= 99
+99 * 1   =  99
+99 * 2   =  198
+99 * 3   =  297
+99 * 4   =  396
+99 * 5   =  495
+99 * 6   =  594
+99 * 7   =  693
+99 * 8   =  792
+99 * 9   =  891
+99 * 10   =  990
+
+6.6: Write a program that input a digit and display sum of its digits
+enter a number= 0975
+ digit is = 975 and sum of its digit  = 23.33333333333333
+
+6.7: write a program that display factorial of number using while loop
+enter a number= 6789
+ factorial of 6789 is 0
+
+6.8: write a program that display the degree to radian table using whileloop
+degree of radian
+0 0.0
+10 0.17453294444444445
+20 0.3490658888888889
+30 0.5235988333333333
+40 0.6981317777777778
+50 0.8726647222222221
+60 1.0471976666666667
+70 1.221730611111111
+80 1.3962635555555556
+90 1.5707965
+100 1.7453294444444443
+110 1.9198623888888888
+120 2.0943953333333334
+130 2.2689282777777775
+140 2.443461222222222
+150 2.6179941666666666
+160 2.792527111111111
+170 2.9670600555555553
+180 3.141593
+190 3.316125944444444
+200 3.4906588888888885
+210 3.665191833333333
+220 3.8397247777777777
+230 4.014257722222222
+240 4.188790666666667
+250 4.363323611111111
+260 4.537856555555555
+270 4.7123895
+280 4.886922444444444
+290 5.061455388888889
+300 5.235988333333333
+310 5.410521277777778
+320 5.585054222222222
+330 5.759587166666667
+340 5.934120111111111
+350 6.108653055555555
+360 6.283186
+
+6.9:write a program that disply the sum of series
+rezult of series = 3.249602669164711
+
+6.10: write a program input positive number and display sum of its even and odd
+Enter a number: 678
+The sum of even digits is 115260
+The sum of odd numbers is 114921
+
+6.11:Program inputs number and checks whether it is an Armstrong number
+Enter a number: 97
+67
+97.0 is not a Armstrong number
+
+6.12: write a program that inputs number until user enters a negative number  then calculates average :
+Enter 1st number: 78
+ enter any number: 9
+ enter any number: 0
+ enter any number: -1
+You entered  3  numbers
+Average of numbers  = 29.0
+Min number  = 0.0
+Max number  = 78.0
+
+6.14: write a Program that inputs starting and ending number from the user and displays all the even numbers
+Enter starting number: 78
+Enter ending number: 65
+
+6.17: write a program that inputs a number and display if it is a Fibonacci number or not
+Enter the number: 88
+88 != Fibonacci  .
+6.16: write  a program that display fibnocci series
+enter any number to calculate fibnoci seriers= 88
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+6.15:write a program that uses loop to enter number from user and then display it until user terminates the loop
+Enter a number to terminate loop 99
+number 99
+Enter a number to terminate loop 00
+number 0
+Enter a number to terminate loop 12
+number 12
+Enter a number to terminate loop
